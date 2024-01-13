@@ -5,7 +5,7 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Edit Custome',
+  title: 'Edit Invoices',
 };
 export default async function Page({ params }: { params: { id: string } }) {
   const id = params.id;

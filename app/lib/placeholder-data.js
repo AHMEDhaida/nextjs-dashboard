@@ -2,10 +2,10 @@
 // https://nextjs.org/learn/dashboard-app/fetching-data
 const users = [
   {
-    id: '410544b2-4001-4271-9855-fec4b6a6442a',
+    id: '862fe078-c4f9-4535-9f50-5889a2c5f61c',
     name: 'User',
-    email: 'user@nextmail.com',
-    password: '123456',
+    email: 'user@gmail.com',
+    password: '467174',
   },
 ];
 
